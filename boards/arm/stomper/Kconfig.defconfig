@@ -15,6 +15,9 @@ config USB_NRFX
 config USB_DEVICE_STACK
     default y
 
+config USB_CDC_ACM
+    default y
+
 endif # USB
 
 config BT_CTLR
