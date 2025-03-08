@@ -90,7 +90,7 @@
     pinctrl-1 = <&uart0_sleep>;
     pinctrl-names = "default", "sleep";
 };
-
+//
 zephyr_udc0: &usbd {
     status = "okay";
 };
