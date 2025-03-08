@@ -77,6 +77,12 @@
     status = "okay";
 };
 
+&zephyr_udc0 {
+	cdc_acm_uart: cdc_acm_uart {
+		compatible = "zephyr,cdc-acm-uart";
+	};
+};
+
 &uart0 {
     compatible = "nordic,nrf-uarte";
     current-speed = <115200>;
