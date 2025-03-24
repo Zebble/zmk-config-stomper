@@ -20,3 +20,9 @@
 ---
 include:
   - board: stomper
+    shield: my_keyboard_dongle
+  - board: stomper
+    shield: settings_reset
+  - board: stomper
+    shield: my_keyboard
+    cmake-args: -DCONFIG_ZMK_SPLIT=y -DCONFIG_ZMK_SPLIT_ROLE_CENTRAL=n
