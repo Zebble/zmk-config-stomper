@@ -1,5 +1,11 @@
 # ZMK config for a "Stomper" peddle and wireless dongle.
 
+## To-do:
+- [X] Add 3D models
+- [ ] Add assembly instructions and photos
+
+## Details:
+
 The motivation behind this project was to enable using a peddle for melee (default key is "f") in Halo Infinite on an XBox Series X.  I seemed to always hit Melee by mistake if it was on the movement stick!
 
 Latency seems good.
