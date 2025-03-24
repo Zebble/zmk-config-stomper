@@ -2,6 +2,7 @@
 
 ## To-do:
 - [X] Add 3D models
+- [ ] Add hole in model for pin retaining screw
 - [ ] Add assembly instructions and photos
 
 ## Details:
